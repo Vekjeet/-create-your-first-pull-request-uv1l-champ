@@ -2,6 +2,7 @@ Expectation 1:
 I expect to gain a deep understanding of the theoretical foundations that drive the web programming process.
 
 Agreements:
+- Moorsemaro agrees
 ~END~
 
 
@@ -10,6 +11,7 @@ Expectation 2:
 I expect to gain exposure to the different web technologies available for deployung and maintaing web applications to kick start my lifelong develompent journey.
 
 Agreements:
+- Moorsemaro agrees
 ~END~
 
 
@@ -18,4 +20,5 @@ Expectation 3:
 I expect to have fun in my journey learning web programming.
 
 Agreements:
+- Moorsemaro agrees
 ~END~
